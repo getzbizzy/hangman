@@ -1,7 +1,6 @@
 import random
 import hangman_words
 import hangman_art
-import random
 from os import system, name
 
 def clear():
